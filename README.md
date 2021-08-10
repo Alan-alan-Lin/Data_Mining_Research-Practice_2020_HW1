@@ -1,7 +1,7 @@
 # Data_Mining_Research-Practice_2020_HW1
 HW1 - Decision Tree  
 資料集 : Game of Thrones(Explore deaths and battles from this fantasy world)  
-目標 : 利用第二份資料character-deaths.csv，將其中三個欄位Death Year, Book of Death, Death Chapter取其中一個欄位當做預測目標  
+目標 : 利用第二份資料character-deaths.csv，將其中三個欄位Death Year, Book of Death, Death Chapter取其中一個欄位來預測腳色死亡與否  
 流程 :   
 >1.利用pandas套件將資料讀取進來  
  2.把空值以0替代  
